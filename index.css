@@ -1,0 +1,33 @@
+* {
+  background-color: #9acbed;
+}
+
+h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #1a7ec4;
+}
+
+.players {
+  padding-top: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.p1 h2 {
+  text-align: center;
+}
+
+.p2 h2 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-weight: 600;
+  font-size: 70px;
+  padding: 0px;
+  margin: 0px;
+  background-color: #79a7c7;
+}
