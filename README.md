@@ -1,1 +1,1 @@
-# firstjsproject
+simple refresh dice game 
